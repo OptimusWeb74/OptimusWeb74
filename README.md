@@ -4,8 +4,8 @@
 I am a passionate web developer with 2 years of experience in creating dynamic and user-friendly websites. My main focus is on front-end development, but I also have a solid understanding of back-end technologies. I love turning ideas into reality through elegant and efficient code. Am constantly learning new technologies and building new ideas to solve problems in my community.
 
 ## Skills
-- **Front-end:** HTML, CSS, JavaScript, React, Vue.js
-- **Back-end:** Node.js, Express.js, MongoDB
+- **Front-end:** HTML, CSS, JavaScript, React, Nextjs
+- **Back-end:** Node.js, Express.js, MongoDB, Django
 - **UI/UX:** Responsive Design, Wireframing, Prototyping
 - **Other:** RESTful APIs, JSON, AJAX, 
 
